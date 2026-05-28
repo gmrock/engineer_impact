@@ -1,4 +1,4 @@
-# 🏛️ PostHog Engineering Impact Dashboard
+# 🏛️ Engineering Impact Dashboard
 
 A hybrid quantitative–qualitative engineering leadership engine that moves beyond naive developer analytics (such as counting commits or lines of code) and instead measures **engineering leverage, intent, and team citizenship**.
 
@@ -152,8 +152,8 @@ Responsibilities include:
 ## 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/posthog-impact-dashboard.git
-cd posthog-impact-dashboard
+git clone https://github.com/gmrock/engineer-impact.git
+cd engineer-impact
 ```
 
 ## 2. Install Dependencies
