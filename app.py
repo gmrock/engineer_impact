@@ -123,7 +123,7 @@ df = df.sort_values(by="Impact_Score", ascending=False).reset_index(drop=True)
 # -------------------------------------------------------------
 st.title("🏛️ PostHog Engineering Impact Leaderboard")
 st.markdown(f"**{date_string}**")
-st.caption("💡 Click anywhere directly on an engineer's row below to instantly update their deep-dive profile.")
+st.caption("💡 Click on checkbox on the engineer's row below to instantly update their deep-dive profile.")
 
 # Dynamic row count limiter dropdown
 view_option = st.selectbox(
